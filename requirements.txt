@@ -1,2 +1,2 @@
-gunicorn
-streamlit==1.12.0
+numpy==1.24.1
+streamlit==1.16.0
